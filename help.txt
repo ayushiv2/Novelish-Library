@@ -1,0 +1,29 @@
+General Instructions:
+You are allowed to borrow a book for 14 days.
+Only one book can be borrowed at a time.
+Messages are displayed at the bottom of the screen.
+
+How to:
+
+1. Search a Book?
+    -Go to Search
+    -Press 'Book List' for the whole list of books
+    -If you want to search a Book based on Author, Book Name, or Genre type
+    your search query in the text area given and press the corresponding button
+    -Look for the Book ID of the book you want to borrow and remember it
+
+2. Borrow a Book?
+    -Go to search and look for the Book ID
+    -Then go to Profile and Enter the Book ID under the 'Borrow Book' section
+    and press 'Borrow Book'
+    
+3. Return a Book?
+    -Go to Profile
+    -Tell us how did you like the Book out of 5 and press 'Return Book'
+
+4. Unsubscribe to your Membership?
+    -Go to Profile
+    -After returning all the Books that you have borrowed press 'Unsubscribe'
+
+
+For any other queries write to us at novelishlibrary@gmail.com :)
